@@ -9,4 +9,4 @@ In a form of a jupyter notebook, my solution goes through the basic steps of a d
 - Feature engineering
 - Modeling
 
-# Dataset used: [House Prices Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+### Dataset used: [House Prices Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
